@@ -2,6 +2,7 @@
 
 ## OVERVIEW
 This repository contains the source code for an eyeglasses detection system developed as part of the CS231 Computer Vision course. The project focuses on implementing algorithms and techniques for detecting eyeglasses in images.
+Time of project: 2022
 
 
 ### DEMO
